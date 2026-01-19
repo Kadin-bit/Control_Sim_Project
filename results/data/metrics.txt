@@ -1,0 +1,8 @@
+Linear:
+Overshoot: 0.00
+Settling time: 1.98
+Final error: 0.00
+Cubic:
+Overshoot: 0.00
+Settling time: 1.88
+Final error: 0.00
