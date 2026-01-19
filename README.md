@@ -44,7 +44,6 @@ Experiments include **parameter sweeps, PID tuning, and automated optimization**
 | Cubic  | 0.0           | 1.5             | 0.0            |
 | PID (Optimized) | 0.5    | 1.2             | 0.1            |
 
-> ✅ Optimized PID gains: **Kp=7, Ki=1.0, Kd=0.5**
 
 ### Comparison Plot
 ![Comparison of Linear, Cubic, and Optimized PID trajectories](results/plots/comparison_optimal_pid.png)
