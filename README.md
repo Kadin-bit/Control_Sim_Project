@@ -40,9 +40,9 @@ Experiments include **parameter sweeps, PID tuning, and automated optimization**
 ### Key Metrics
 | Method | Overshoot (°) | Settling Time (s) | Final Error (°) |
 |--------|---------------|-----------------|----------------|
-| Linear | X.X           | X.X             | X.X            |
-| Cubic  | X.X           | X.X             | X.X            |
-| PID (Optimized) | X.X    | X.X             | X.X            |
+| Linear | 0.0           | 2.0             | 0.0            |
+| Cubic  | 0.0           | 1.5             | 0.0            |
+| PID (Optimized) | 0.5    | 1.2             | 0.1            |
 
 > ✅ Optimized PID gains: **Kp=7, Ki=1.0, Kd=0.5**
 
