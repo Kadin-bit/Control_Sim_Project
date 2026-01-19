@@ -52,11 +52,3 @@ Experiments include **parameter sweeps, PID tuning, and automated optimization**
 - The red dashed line represents the **target joint angle (90°)**  
 - PID control reaches the target fastest with minimal overshoot and final error  
 
----
-
-## How to Run
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/YOUR_USERNAME/control_sim_project.git
-cd control_sim_project/src
